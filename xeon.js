@@ -161,24 +161,24 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
 	            const xdate = moment.tz('Asia/Kolkata').format('YYYY/MM/DD')
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                 xeonbody = `🐬 Hi👋 @${xeonName.split("@")[0]}
+                 xeonbody = `↱ 𝗛𝗶 @${XeonName.split("@")[0]} ↰
 
-🍁 Welcome To  ${metadata.subject}
-🍁 ${xmembers} Members
-
-Date 📆  =  ${xdate}
-Time ⏰ =  ${xtime} `
+┍➬ Welcome To  ${metadata.subject}
+│➬ ${xmembers} Members
+│
+│➬ Date   =  ${xdate}
+┕➬ Time  =  ${xtime} `
       //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
    let buttons = [
-    {buttonId: `owner`, buttonText: {displayText: '👍 WELCOME 👍'}, type: 1},
+    {buttonId: `owner`, buttonText: {displayText: ' 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 '}, type: 1},
     {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
     ]
 let buttonMessage = {
     image: { url: 'https://i.ibb.co/dMbcJwY/welcome-neon-sign-brick-wall-background-87059037.jpg'},
 caption: xeonbody,
-footer: `✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫`,
+footer: `𝗘𝗭𝗜𝗢 𝗕𝗢𝗧 𝗪𝗠`,
 buttons,
 headerType: 4
 }
@@ -190,22 +190,22 @@ XeonBotInc.sendMessage(anu.id, buttonMessage)
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: xeonbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                     xeonbody = `🐬 Bye👋 @${xeonName.split("@")[0]}
+                     xeonbody = ` ↪ 𝗕𝘆𝗲 @${XeonName.split("@")[0]} ↩
 
-🍁 Left From  ${metadata.subject}
-🍁 ${xeonmembers} Members
-                    
-Date 📆 =  ${xeondate}
-Time ⏰ =  ${xeontime} `
+╔➠ Left From  ${metadata.subject}
+║➠ ${xeonmembers} Members
+║                    
+║➠ Date  =  ${xeondate}
+╚➠ Time  =  ${xeontime} `
 
    let buttons = [
-    {buttonId: `owner`, buttonText: {displayText: '🐼 BYE 🐼'}, type: 1},
+    {buttonId: `owner`, buttonText: {displayText: '𝗚𝗢𝗢𝗗𝗕𝗬𝗘'}, type: 1},
     {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
     ]
     let buttonMessage = {
         image: { url: 'https://i.ibb.co/gytytkM/images.jpg'},
     caption: xeonbody,
-    footer: `✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫`,
+    footer: `𝗘𝗭𝗜𝗢 𝗕𝗢𝗧 𝗪𝗠`,
     buttons,
     headerType: 4
     }
