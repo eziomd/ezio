@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94774579505'
+global.OWNER_REACT = '🪐'
+global.REACT_NUMBER = '989935689926'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94774579505'] //ur owner number
-global.ownername = "🎸 KAVEESHA " //ur owner name
-global.ytname = "YT: Nero" //ur yt chanel name
-global.socialm = "GitHub: Nero" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['989935689926'] //ur owner number
+global.ownername = "𝐄𝐙𝐈𝐎" //ur owner name
+global.ytname = "YT: EZIO" //ur yt chanel name
+global.socialm = "GitHub: EZIO" //ur github or insta name
+global.location = "NO IP" //ur location
 
 //bot bomdy 
-global.owner = ['774579505']
-global.ownertag = '774579505' //ur tag number
-global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫' //ur bot name
-global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
-global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "Kaveesha sithum" //ur sticker watermark author
+global.owner = ['989935689926']
+global.ownertag = '989935689926' //ur tag number
+global.botname = '𝐄𝐙𝐈𝐎 𝐁𝐎𝐓 𝐖𝐌-2' //ur bot name
+global.linkz = "کیر شدی سید" //your theme url which will be displayed on whatsapp
+global.websitex = "بار دوم کیر شدی" //ur website to be displayed
+global.botscript = 'بسه چقدر کیر میشی' //script link
+global.reactmoji = "🪐" //ur menu react emoji
+global.themeemoji = "🪐" //ur theme emoji
+global.packname = "𝕰𝐙𝐈𝕺 ╏𝕸 × 𝐙╏ 𝐇𝕬𝕮𝐊" //ur sticker watermark packname
+global.author = "𝕰𝐙𝐈𝕺 ╏𝕸 × 𝐙╏ 𝐇𝕬𝕮𝐊" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['774579505'] //ur premium numbers
+global.premium = ['989935689926'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
