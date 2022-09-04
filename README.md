@@ -4,10 +4,10 @@
 
 <h1 align="center">𝗘𝗭𝗜𝗢 𝗕𝗢𝗧 𝗠𝗗<br></h1>
 <p align="center">
-<img src="https://imgur.com/gallery/6fBbf" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
+<img https://imgur.com/gallery/6fBbf" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
  
  
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝗘𝗭𝗜𝗢𝗕𝗢𝗧+࿐;𝗜𝗠 𝗘𝗭𝗜𝗢 ; 𝗕𝗢𝗧 𝗠𝗗 𝗪𝗛𝗔𝗧𝗦) ]
+ 
  
  
  #### TOTAL REPO VIEWS
