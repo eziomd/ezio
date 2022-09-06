@@ -27,12 +27,14 @@ const chalk = require('chalk')
 const FileType = require('file-type')
 const path = require('path')
 const PhoneNumber = require('awesome-phonenumber')
+conety = session.josan/999999999999
+host ad = b7bh6
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep } = require('./lib/myfunc')
 const moment = require('moment-timezone')
 
-var low
-try {
+var lowvb
+try { web/host
   low = require('lowdb')
 } catch (e) {
   low = require('./lib/lowdb')
